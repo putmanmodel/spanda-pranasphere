@@ -3,6 +3,13 @@
 **Symbolic cognition infrastructure** for emotional AI, narrative engines, and tonal NPCs.  
 This Phase 1 release includes the core pipeline from **tone signal detection** to **field resonance** and **contextual modulation**.
 
+# Spanda Engine Pre-Demo
+
+🚀 **Live Demo:** [https://spanda-engine-predemo.vercel.app](https://spanda-engine-predemo.vercel.app)
+
+This is a simplified public preview of the Spanda Engine™ — a system for real-time emotional resonance modeling, symbolic tone parsing, and recursive narrative logic.
+
+> The full PUTMAN Suite of Emotive Software will be released in stages.
 ---
 
 ### 📋 Prerequisites
