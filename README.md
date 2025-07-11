@@ -41,13 +41,13 @@ This simulates the full flow:
 
 ### 🧩 Core Modules
 
-| Module                      | Description                               | Sample Output               |
-|----------------------------|-------------------------------------------|-----------------------------|
-| `stackedDeviation.ts`      | Detects arcs from emotional deviation     | `arcType: 'swing'`          |
-| `toneArcMemory.ts`         | Tracks tone memory across poles           | `avgDeviation: 0.35`        |
-| `contextualToneInference.ts` | Infers alignment between tone + mood     | `resonance: 'aligned'`      |
-| `memoryBuffer.ts`          | Temporary buffer for tone snapshots       | _n/a_                       |
-| `liveNuanceTest.ts`        | Runs the full Spanda + PranaSphere stack  | Full inference output       |
+| Module                       | Description                               | Sample Output               |
+|------------------------------|-------------------------------------------|-----------------------------|
+| `stackedDeviation.ts`        | Detects arcs from emotional deviation     | `arcType: 'swing'`          |
+| `toneArcMemory.ts`           | Tracks tone memory across poles           | `avgDeviation: 0.35`        |
+| `contextualToneInference.ts` | Infers alignment between tone + mood      | `resonance: 'aligned'`      |
+| `memoryBuffer.ts`            | Temporary buffer for tone snapshots       | _n/a_                       |
+| `liveNuanceTest.ts`          | Runs the full Spanda + PranaSphere stack  | Full inference output       |
 
 ---
 
@@ -87,18 +87,18 @@ npm run edge-case -- <case-id>
 
 #### Available Test Cases
 
-| ID                        | Description                                                                    |
-|--------------------------|--------------------------------------------------------------------------------|
-| `sarcasm-flip`           | High-tone input meant ironically — initial positivity flips to sharp negative. |
-| `flatline-no-deviation`  | Repeated neutral inputs show no emotional swing — stability with zero arc.     |
+| ID                        | Description                                                                      |
+|--------------------------|-----------------------------------------------------------------------------------|
+| `sarcasm-flip`           | High-tone input meant ironically — initial positivity flips to sharp negative.    |
+| `flatline-no-deviation`  | Repeated neutral inputs show no emotional swing — stability with zero arc.        |
 | `clashing-signals`       | Two poles receive opposing inputs — system must choose dominant or flag conflict. |
-| `overamplification-drift`| Rapid tone escalation leads to runaway loop — tests intensity vs decay balance. |
+| `overamplification-drift`| Rapid tone escalation leads to runaway loop — tests intensity vs decay balance.   |
 
 ---
 
 ### 📊 Sample Output Results
 
-| Case ID                   | Arc Type | Peak Pole | Avg Deviation | Inference Summary                          |
+| Case ID                   | Arc Type | Peak Pole  | Avg Deviation  | Inference Summary                          |
 |---------------------------|----------|------------|----------------|--------------------------------------------|
 | `sarcasm-flip`            | `surge`  | 1          | -0.20          | Clashing → Redirect; then Neutral → Dampen |
 | `flatline-no-deviation`   | `flat`   | 2          | 0.00           | Both aligned → Amplify                     |
@@ -137,7 +137,19 @@ Commercial licensing available by inquiry.
 - X (Twitter): [@putmanmodel](https://x.com/putmanmodel)  
 - LinkedIn: [Stephen A. Putman](https://www.linkedin.com/in/stephen-a-putman-0ba70a36b/)  
 - BlueSky: [@putmanmodel.bsky.social](https://bsky.app/profile/putmanmodel.bsky.social)
+---
 
+### 🧭 Coming Soon – Visual Layers + Symbolic Mapping
+
+> The included `tonePairs.json` and `keywordMap.json` form the symbolic base for future emotional modeling tools.  
+> These files support upcoming visual and semantic systems currently in active R&D.
+
+🌱 Planned experimental modules:
+- 🎨 **ToneGlowHUD™** — Real-time emotional field overlays (Unity-ready)  
+- 🧠 **Nuance Engine** — Symbolic tone memory with recursive deviation tracking  
+- 📊 **ToneSig Scene Designer** — Visualize NPC state arcs + resonance clusters
+
+_**Note:** These features are exploratory and may evolve as the Spanda Engine develops._
 ---
 
 ### 📦 Version
