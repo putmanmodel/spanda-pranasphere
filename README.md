@@ -144,12 +144,13 @@ Commercial licensing available by inquiry.
 > The included `tonePairs.json` and `keywordMap.json` form the symbolic base for future emotional modeling tools.  
 > These files support upcoming visual and semantic systems currently in active R&D.
 
-🌱 Planned experimental modules:
-	•	🎨 ToneGlowHUD™ — Real-time emotional field overlays (Unity-ready)
-	•	🧠 Nuance Engine — Symbolic tone memory with recursive deviation tracking
-	•	📊 ToneSig Scene Designer — Visualize NPC state arcs + resonance clusters
+### 🌱 Planned Experimental Modules
 
-Note: These features are exploratory and may evolve as the Spanda Engine develops.
+- 🎨 ToneGlowHUD™ — Real-time emotional field overlays (Unity-ready)  
+- 🧠 Nuance Engine — Symbolic tone memory with recursive deviation tracking  
+- 📊 ToneSig Scene Designer — Visualize NPC state arcs + resonance clusters  
+
+> These features are exploratory and may evolve as the Spanda Engine develops.
 ---
 
 ### 📦 Version
