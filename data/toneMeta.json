@@ -1,0 +1,222 @@
+{
+  "10": {
+    "positive": {
+      "symbolic_density": 0.78,
+      "lexical_ambiguity": 0.62,
+      "field_preference": [
+        "27",
+        "44",
+        "37"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.55,
+      "lexical_ambiguity": 0.41,
+      "field_preference": [
+        "23",
+        "32",
+        "52"
+      ]
+    }
+  },
+  "16": {
+    "positive": {
+      "symbolic_density": 0.85,
+      "lexical_ambiguity": 0.5,
+      "field_preference": [
+        "23",
+        "10",
+        "44"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.9,
+      "lexical_ambiguity": 0.6,
+      "field_preference": [
+        "32",
+        "27",
+        "52"
+      ]
+    }
+  },
+  "23": {
+    "positive": {
+      "symbolic_density": 0.88,
+      "lexical_ambiguity": 0.75,
+      "field_preference": [
+        "16",
+        "10",
+        "53"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.82,
+      "lexical_ambiguity": 0.66,
+      "field_preference": [
+        "32",
+        "63",
+        "37"
+      ]
+    }
+  },
+  "27": {
+    "positive": {
+      "symbolic_density": 0.65,
+      "lexical_ambiguity": 0.55,
+      "field_preference": [
+        "10",
+        "32",
+        "16"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.7,
+      "lexical_ambiguity": 0.52,
+      "field_preference": [
+        "44",
+        "37",
+        "23"
+      ]
+    }
+  },
+  "32": {
+    "positive": {
+      "symbolic_density": 0.6,
+      "lexical_ambiguity": 0.5,
+      "field_preference": [
+        "27",
+        "44",
+        "23"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.78,
+      "lexical_ambiguity": 0.67,
+      "field_preference": [
+        "10",
+        "16",
+        "63"
+      ]
+    }
+  },
+  "37": {
+    "positive": {
+      "symbolic_density": 0.72,
+      "lexical_ambiguity": 0.43,
+      "field_preference": [
+        "44",
+        "27",
+        "16"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.66,
+      "lexical_ambiguity": 0.48,
+      "field_preference": [
+        "52",
+        "23",
+        "63"
+      ]
+    }
+  },
+  "44": {
+    "positive": {
+      "symbolic_density": 0.68,
+      "lexical_ambiguity": 0.35,
+      "field_preference": [
+        "10",
+        "32",
+        "37"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.74,
+      "lexical_ambiguity": 0.55,
+      "field_preference": [
+        "27",
+        "16",
+        "52"
+      ]
+    }
+  },
+  "45": {
+    "positive": {
+      "symbolic_density": 0.5,
+      "lexical_ambiguity": 0.3,
+      "field_preference": [
+        "52",
+        "44",
+        "16"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.54,
+      "lexical_ambiguity": 0.33,
+      "field_preference": [
+        "63",
+        "23",
+        "32"
+      ]
+    }
+  },
+  "52": {
+    "positive": {
+      "symbolic_density": 0.4,
+      "lexical_ambiguity": 0.25,
+      "field_preference": [
+        "45",
+        "44",
+        "37"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.48,
+      "lexical_ambiguity": 0.3,
+      "field_preference": [
+        "16",
+        "27",
+        "63"
+      ]
+    }
+  },
+  "53": {
+    "positive": {
+      "symbolic_density": 0.76,
+      "lexical_ambiguity": 0.6,
+      "field_preference": [
+        "23",
+        "63",
+        "10"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.81,
+      "lexical_ambiguity": 0.68,
+      "field_preference": [
+        "27",
+        "16",
+        "44"
+      ]
+    }
+  },
+  "63": {
+    "positive": {
+      "symbolic_density": 0.92,
+      "lexical_ambiguity": 0.72,
+      "field_preference": [
+        "53",
+        "16",
+        "23"
+      ]
+    },
+    "negative": {
+      "symbolic_density": 0.89,
+      "lexical_ambiguity": 0.7,
+      "field_preference": [
+        "32",
+        "44",
+        "10"
+      ]
+    }
+  }
+}

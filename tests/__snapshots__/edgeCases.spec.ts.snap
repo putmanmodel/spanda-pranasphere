@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Edge-Case Arc Analysis clashing-signals 1`] = `
+{
+  "arcType": "swing",
+  "avgDeviation": -0.025000000000000022,
+  "deviationRange": 1.45,
+  "peakPole": 4,
+  "trend": "falling",
+  "triggerLevel": -0.75,
+}
+`;
+
+exports[`Edge-Case Arc Analysis flatline-no-deviation 1`] = `
+{
+  "arcType": "flat",
+  "avgDeviation": 0,
+  "deviationRange": 0,
+  "peakPole": 2,
+  "trend": "stable",
+  "triggerLevel": 0,
+}
+`;
+
+exports[`Edge-Case Arc Analysis overamplification-drift 1`] = `
+{
+  "arcType": "swing",
+  "avgDeviation": 1.2333333333333334,
+  "deviationRange": 0.7000000000000001,
+  "peakPole": 5,
+  "trend": "rising",
+  "triggerLevel": 1.6,
+}
+`;
+
+exports[`Edge-Case Arc Analysis sarcasm-flip 1`] = `
+{
+  "arcType": "surge",
+  "avgDeviation": -0.19999999999999996,
+  "deviationRange": 2,
+  "peakPole": 1,
+  "trend": "falling",
+  "triggerLevel": -1.2,
+}
+`;

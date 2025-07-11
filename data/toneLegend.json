@@ -1,0 +1,66 @@
+{
+  "10": {
+    "positive": { "tag": "curious", "symbol": "[c]" },
+    "negative": { "tag": "certain", "symbol": "[k]" }
+  },
+  "16": {
+    "positive": { "tag": "joy", "symbol": "[j]" },
+    "negative": { "tag": "despair", "symbol": "[ds]" }
+  },
+  "23": {
+    "positive": { "tag": "love", "symbol": "[l]" },
+    "negative": { "tag": "hate", "symbol": "[h]" }
+  },
+  "27": {
+    "positive": { "tag": "grateful", "symbol": "[g]" },
+    "negative": { "tag": "ignored", "symbol": "[i]" }
+  },
+  "32": {
+    "positive": { "tag": "recognized", "symbol": "[x]" },
+    "negative": { "tag": "resentful", "symbol": "[r]" }
+  },
+  "37": {
+    "positive": { "tag": "courage", "symbol": "[v]" },
+    "negative": { "tag": "shame", "symbol": "[sh]" }
+  },
+  "44": {
+    "positive": { "tag": "secure", "symbol": "[q]" },
+    "negative": { "tag": "exposed", "symbol": "[xp]" }
+  },
+  "45": {
+    "positive": {
+      "tag": "bright",
+      "symbol": "[y]",
+      "metaphor": true,
+      "domain": "light"
+    },
+    "negative": {
+      "tag": "dark",
+      "symbol": "[d]",
+      "metaphor": true,
+      "domain": "light"
+    }
+  },
+  "52": {
+    "positive": {
+      "tag": "lightweight",
+      "symbol": "[lt]",
+      "metaphor": true,
+      "domain": "weight"
+    },
+    "negative": {
+      "tag": "heavy",
+      "symbol": "[hv]",
+      "metaphor": true,
+      "domain": "weight"
+    }
+  },
+  "53": {
+    "positive": { "tag": "celibate", "symbol": "[cl]" },
+    "negative": { "tag": "lustful", "symbol": "[z]" }
+  },
+  "63": {
+    "positive": { "tag": "ecstatic", "symbol": "[lx]" },
+    "negative": { "tag": "dreadful", "symbol": "[dr]" }
+  }
+}

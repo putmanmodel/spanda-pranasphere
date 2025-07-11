@@ -1,0 +1,259 @@
+{
+  "love": ["affection", "adoration", "devotion", "fondness", "cherish", "care", "tenderness", "romance", "passion", "infatuation"],
+  "hate": ["loathing", "hostility", "detest", "revulsion", "animosity", "spite", "rage", "malice", "contempt", "abhorrence"],
+
+  "joy": ["delight", "happiness", "elation", "glee", "bliss", "mirth", "cheerfulness", "euphoria", "jubilation", "radiance"],
+  "despair": ["hopelessness", "misery", "anguish", "dejection", "despondency", "gloom", "grief", "sorrow", "melancholy", "loss"],
+
+  "trust": ["confidence", "faith", "assurance", "belief", "dependence", "reliance", "loyalty", "credence", "security", "conviction"],
+  "suspicion": ["doubt", "mistrust", "skepticism", "uncertainty", "wariness", "paranoia", "cynicism", "apprehension", "questioning", "distrust"],
+
+  "hope": ["optimism", "aspiration", "expectation", "faith", "confidence", "promise", "anticipation", "yearning", "belief", "dream"],
+  "hopelessness": ["despair", "desperation", "resignation", "helplessness", "defeat", "loss", "emptiness", "surrender", "misery", "bleakness"],
+
+  "peace": ["calm", "serenity", "harmony", "tranquility", "stillness", "equanimity", "rest", "order", "balance", "ease"],
+  "chaos": ["disorder", "turmoil", "anarchy", "confusion", "pandemonium", "upheaval", "frenzy", "disruption", "unrest", "havoc"],
+
+  "pride": ["dignity", "self-respect", "honor", "confidence", "accomplishment", "triumph", "esteem", "glory", "achievement", "gratification"],
+  "shame": ["embarrassment", "guilt", "humiliation", "disgrace", "remorse", "dishonor", "regret", "self-loathing", "insecurity", "awkwardness"],
+
+  "courage": ["bravery", "valor", "boldness", "fearlessness", "guts", "heroism", "resolve", "determination", "fortitude", "grit"],
+  "fear": ["anxiety", "terror", "worry", "dread", "panic", "nervousness", "apprehension", "alarm", "unease", "phobia"],
+
+  "compassion": ["empathy", "kindness", "sympathy", "understanding", "care", "concern", "gentleness", "mercy", "nurturing", "altruism"],
+  "cruelty": ["brutality", "callousness", "malice", "sadism", "cold-heartedness","abuse", "harshness", "inhumanity", "meanness", "viciousness"],
+
+  "excitement": ["thrill", "enthusiasm", "eagerness", "anticipation", "joy", "exhilaration", "energy", "glee", "buzz", "delight"],
+  "boredom": ["monotony", "tedium", "apathy", "dullness", "fatigue", "indifference", "disinterest", "restlessness", "ennui", "numbness"],
+
+  "gratitude": ["thankfulness", "appreciation", "recognition", "grace", "acknowledgment", "thanksgiving", "humility", "praise", "esteem", "warmth"],
+  "resentment": ["bitterness", "grudge", "envy", "anger", "hostility", "discontent", "jealousy", "spite", "reproach", "indignation"],
+
+    "relief": ["release", "comfort", "ease", "alleviation", "reassurance", "liberation", "reprieve", "respite", "solace", "peace"],
+  "anguish": ["torment", "agony", "distress", "suffering", "despair", "grief", "pain", "torture", "woe", "misery"],
+
+  "enthusiasm": ["eagerness", "excitement", "zeal", "fervor", "passion", "energy", "interest", "anticipation", "devotion", "readiness"],
+  "apathy": ["indifference", "disinterest", "detachment", "unconcern", "listlessness", "passivity", "numbness", "boredom", "coldness", "inertia"],
+
+  "serenity": ["calm", "peacefulness", "tranquility", "stillness", "equanimity", "composure", "relaxation", "clarity", "acceptance", "balance"],
+  "anxiety": ["worry", "nervousness", "fear", "unease", "apprehension", "stress", "dread", "tension", "panic", "restlessness"],
+
+  "curiosity": ["inquisitiveness", "wonder", "interest", "exploration", "openness", "questioning", "fascination", "eagerness", "engagement", "seeking"],
+  "certainty": ["confidence", "assurance", "conviction", "inevitability", "finality", "definiteness", "determination", "clarity", "security", "belief"],
+
+  "confidence": ["self-assurance", "belief", "trust", "conviction", "certainty", "courage", "composure", "positivity", "assurance", "security"],
+  "doubt": ["uncertainty", "skepticism", "hesitation", "mistrust", "apprehension", "confusion", "questioning", "ambivalence", "insecurity", "disbelief"],
+
+  "optimism": ["hopefulness", "positivity", "confidence", "cheerfulness", "faith", "expectation", "brightness", "trust", "encouragement", "belief"],
+  "pessimism": ["negativity", "doubt", "hopelessness", "gloom", "despair", "skepticism", "cynicism", "fatalism", "discouragement", "resignation"],
+
+  "affection": ["fondness", "love", "tenderness", "warmth", "care", "adoration", "endearment", "liking", "devotion", "softness"],
+  "aversion": ["disgust", "repulsion", "hatred", "distaste", "loathing", "revulsion", "hostility", "opposition", "antipathy", "rejection"],
+
+  "tranquility": ["serenity", "peace", "stillness", "harmony", "quietude", "composure", "balance", "relaxation", "ease", "calm"],
+  "turbulence": ["chaos", "disorder", "agitation", "instability", "upheaval", "confusion", "commotion", "unrest", "disturbance", "wildness"],
+
+  "empathy": ["compassion", "understanding", "kindness", "sympathy", "sensitivity", "care", "attunement", "connection", "gentleness", "openness"],
+  "antipathy": ["hostility", "aversion", "disdain", "resentment", "disgust", "animus", "animosity", "revulsion", "enmity", "loathing"],
+
+  "admiration": ["respect", "awe", "esteem", "regard", "honor", "veneration", "appreciation", "praise", "recognition", "wonder"],
+  "contempt": ["disdain", "scorn", "disrespect", "mockery", "derision", "belittlement", "revulsion", "hatred", "dismissiveness", "loathing"],
+
+  "zeal": ["fervor", "passion", "enthusiasm", "devotion", "eagerness", "ardor", "commitment", "vigor", "excitement", "intensity"],
+  "indifference": ["apathy", "disinterest", "unconcern", "detachment", "coldness", "nonchalance", "neutrality", "passivity", "neglect", "numbness"],
+
+  "amusement": ["laughter", "entertainment", "fun", "humor", "delight", "glee", "enjoyment", "playfulness", "cheer", "levity"],
+  "irritation": ["annoyance", "agitation", "frustration", "bother", "vexation", "anger", "resentment", "displeasure", "grumbling", "discontent"],
+
+  "delight": ["joy", "pleasure", "happiness", "enchantment", "glee", "satisfaction", "gratification", "amusement", "elation", "cheerfulness"],
+  "disgust": ["revulsion", "loathing", "repulsion", "nausea", "abhorrence", "aversion", "contempt", "distaste", "sickness", "recoil"],
+
+  "elation": ["euphoria", "exhilaration", "ecstasy", "rapture", "excitement", "glee", "jubilation", "bliss", "triumph", "high spirits"],
+  "despondency": ["gloom", "depression", "hopelessness", "discouragement", "melancholy", "despair", "misery", "dejection", "sadness", "emptiness"],
+
+  "thrill": ["excitement", "rush", "exhilaration", "buzz", "adrenaline", "joyride", "glee", "delight", "anticipation", "sensation"],
+  "dread": ["fear", "apprehension", "anxiety", "terror", "foreboding", "panic", "worry", "alarm", "unease", "horror"],
+
+  "eagerness": ["enthusiasm", "zeal", "readiness", "willingness", "anticipation", "excitement", "alacrity", "hunger", "desire", "yearning"],
+  "reluctance": ["hesitation", "unwillingness", "resistance", "reservation", "inhibition", "doubt", "indecision", "discomfort", "unease", "disinclination"],
+
+  "arousal": ["stimulation", "alertness", "awakening", "activation", "readiness", "interest", "excitement", "elevation", "heightening", "sensuality"],
+  "numbness": ["insensitivity", "detachment", "apathy", "emptiness", "inertia", "disconnection", "dullness", "deadness", "torpor", "desensitization"],
+
+  "reverence": ["veneration", "respect", "awe", "worship", "honor", "devotion", "admiration", "solemnity", "sanctity", "humility"],
+  "blasphemy": ["sacrilege", "profanity", "irreverence", "heresy", "mockery", "disrespect", "defilement", "violation", "offense", "impiety"],
+
+  "devotion": ["dedication", "commitment", "loyalty", "faithfulness", "adoration", "fidelity", "allegiance", "zeal", "attachment", "reverence"],
+  "neglect": ["disregard", "abandonment", "ignorance", "inattention", "omission", "carelessness", "dismissal", "overlook", "indifference", "apathy"],
+
+  "attraction": ["draw", "pull", "allure", "appeal", "interest", "magnetism", "infatuation", "fascination", "desire", "captivation"],
+  "repulsion": ["aversion", "revulsion", "disgust", "recoil", "distaste", "detestation", "pushback", "deterrence", "objection", "horror"],
+
+  "inspiration": ["motivation", "encouragement", "spark", "uplift", "guidance", "awakening", "creativity", "stimulation", "drive", "insight"],
+  "discouragement": ["disheartenment", "doubt", "hopelessness", "demotivation", "resignation", "letdown", "rejection", "frustration", "dismay", "setback"],
+
+  "comfort": ["ease", "relief", "reassurance", "soothing", "warmth", "solace", "security", "peace", "support", "coziness"],
+  "discomfort": ["pain", "unease", "irritation", "distress", "awkwardness", "agitation", "tension", "inconvenience", "strain", "unrest"],
+
+  "altruism": ["selflessness", "generosity", "compassion", "kindness", "benevolence", "philanthropy", "empathy", "service", "unselfishness", "sacrifice"],
+  "selfishness": ["egotism", "narcissism", "self-interest", "greed", "self-centeredness", "vanity", "self-indulgence", "egoism", "possessiveness", "pride"],
+
+  "generosity": ["giving", "kindness", "charity", "selflessness", "benevolence", "openhandedness", "big-heartedness", "liberality", "hospitality", "sharing"],
+  "greed": ["avarice", "selfishness", "gluttony", "covetousness", "excess", "hoarding", "materialism", "insatiability", "possessiveness", "overindulgence"],
+
+  "solidarity": ["unity", "support", "cohesion", "togetherness", "alliance", "fellowship", "teamwork", "community", "shared purpose", "bonding"],
+  "isolation": ["loneliness", "separation", "exclusion", "alienation", "solitude", "detachment", "remoteness", "disconnect", "abandonment", "withdrawal"],
+
+  "exhilaration": ["euphoria", "thrill", "joy", "rush", "excitement", "delight", "elation", "uplift", "vitality", "buzz"],
+  "torpor": ["sluggishness", "lethargy", "inactivity", "dullness", "numbness", "listlessness", "apathy", "fatigue", "inertia", "stupor"],
+
+  "belonging": ["inclusion", "connection", "acceptance", "affiliation", "membership", "togetherness", "unity", "community", "attachment", "identification"],
+  "alienation": ["estrangement", "isolation", "detachment", "disconnection", "exclusion", "loneliness", "separation", "rejection", "withdrawal", "abandonment"],
+
+  "vitality": ["energy", "vigor", "liveliness", "strength", "health", "animation", "zest", "robustness", "spirit", "resilience"],
+  "lethargy": ["tiredness", "fatigue", "sluggishness", "weariness", "inertia", "drowsiness", "laziness", "apathy", "torpor", "exhaustion"],
+
+    "assurance": ["certainty", "confidence", "security", "guarantee", "trust", "faith", "conviction", "positivity", "clarity", "affirmation"],
+  "vulnerability": ["exposure", "insecurity", "fragility", "susceptibility", "weakness", "openness", "sensitivity", "helplessness", "risk", "uncertainty"],
+
+  "determination": ["resolve", "willpower", "persistence", "tenacity", "commitment", "drive", "grit", "focus", "dedication", "purpose"],
+  "indecision": ["hesitation", "uncertainty", "doubt", "vacillation", "wavering", "ambivalence", "tentativeness", "stalling", "confusion", "instability"],
+
+  "resilience": ["endurance", "toughness", "adaptability", "strength", "bounce-back", "fortitude", "grit", "perseverance", "stamina", "durability"],
+  "breakdown": ["collapse", "failure", "crash", "malfunction", "shutdown", "despair", "disintegration", "meltdown", "decay", "burnout"],
+
+  "authenticity": ["genuineness", "truth", "realness", "honesty", "integrity", "sincerity", "originality", "transparency", "trustworthiness", "authorship"],
+  "pretense": ["deception", "facade", "falseness", "mask", "dishonesty", "affectation", "illusion", "roleplay", "simulation", "insincerity"],
+
+  "spontaneity": ["impulsiveness", "freedom", "naturalness", "instinct", "intuition", "unplanned", "immediacy", "fluidity", "expressiveness", "carefreeness"],
+  "calculation": ["planning", "strategy", "deliberation", "manipulation", "control", "analysis", "foresight", "precision", "scheming", "intentionality"],
+
+  "harmony": ["balance", "peace", "unity", "synchrony", "agreement", "coherence", "concord", "alignment", "compatibility", "tranquility"],
+  "conflict": ["discord", "disagreement", "struggle", "battle", "fight", "tension", "clash", "war", "division", "opposition"],
+
+  "exuberance": ["enthusiasm", "joy", "vitality", "liveliness", "elation", "euphoria", "zeal", "cheer", "energy", "spiritedness"],
+  "deflation": ["disappointment", "disillusionment", "letdown", "decline", "depression", "dejection", "collapse", "fizzle", "withdrawal", "drain"],
+
+  "loyalty": ["faithfulness", "allegiance", "devotion", "fidelity", "trust", "commitment", "dependability", "honor", "support", "steadfastness"],
+  "betrayal": ["treachery", "deceit", "disloyalty", "abandonment", "infidelity", "duplicity", "deception", "backstabbing", "violation", "breach"],
+
+  "ardor": ["passion", "fervor", "zeal", "enthusiasm", "devotion", "intensity", "heat", "eagerness", "love", "excitement"],
+  "iciness": ["coldness", "detachment", "indifference", "chill", "aloofness", "frigidity", "harshness", "coolness", "distance", "emotional reserve"],
+
+  "calm": ["serenity", "stillness", "peace", "tranquility", "quiet", "composure", "relaxation", "ease", "centeredness", "balance"],
+  "frustration": ["annoyance", "irritation", "impatience", "agitation", "disappointment", "anger", "resentment", "stress", "confusion", "discouragement"],
+
+    "initiative": ["drive", "leadership", "proactiveness", "ambition", "enterprise", "self-starting", "action", "motivation", "boldness", "engagement"],
+  "passivity": ["inactivity", "complacency", "submission", "resignation", "detachment", "inaction", "laziness", "indifference", "inauthenticity", "apathy"],
+
+  "clarity": ["understanding", "lucidity", "coherence", "transparency", "certainty", "focus", "insight", "simplicity", "recognition", "precision"],
+  "confusion": ["bewilderment", "disorientation", "uncertainty", "obscurity", "vagueness", "doubt", "fog", "misunderstanding", "blur", "incoherence"],
+
+  "steadfastness": ["loyalty", "determination", "resolve", "dependability", "devotion", "persistence", "unwavering", "faithfulness", "firmness", "constancy"],
+  "fickleness": ["inconsistency", "unreliability", "whimsy", "capriciousness", "instability", "indecision", "moodiness", "changeability", "flightiness", "volatility"],
+
+  "focus": ["concentration", "attention", "dedication", "clarity", "direction", "purpose", "fixation", "intent", "immersion", "engagement"],
+  "distraction": ["diversion", "interruption", "scatter", "confusion", "restlessness", "noise", "disturbance", "mind-wandering", "split-attention", "preoccupation"],
+
+  "security": ["safety", "stability", "certainty", "protection", "reliability", "assurance", "groundedness", "trust", "comfort", "confidence"],
+  "precariousness": ["instability", "uncertainty", "risk", "insecurity", "volatility", "danger", "vulnerability", "imbalance", "exposure", "fragility"],
+
+  "selflessness": ["altruism", "generosity", "humility", "compassion", "sacrifice", "service", "kindness", "nobility", "unselfishness", "empathy"],
+  "egoism": ["self-interest", "narcissism", "pride", "vanity", "self-centeredness", "greed", "arrogance", "individualism", "self-promotion", "entitlement"],
+
+  "tenderness": ["gentleness", "care", "softness", "affection", "sensitivity", "nurturing", "warmth", "delicacy", "compassion", "lovingkindness"],
+  "firmness": ["strength", "solidity", "resolve", "rigidity", "boundaries","hardness", "discipline", "steadiness", "unyieldingness", "structure"],
+
+  "mindfulness": ["awareness", "presence", "attention", "consciousness", "clarity", "reflection", "meditation", "attunement", "focus", "intention"],
+  "unconsciousness": ["ignorance", "inattention", "detachment", "numbness", "autopilot", "sleepwalking", "disconnection", "mindlessness", "absence", "oblivion"],
+
+  "presence": ["awareness", "engagement", "attunement", "mindfulness", "focus", "centeredness", "here-ness", "embodiment", "aliveness", "clarity"],
+  "absentmindedness": ["forgetfulness", "distraction", "preoccupation", "inattention", "spaciness", "detachment", "unawareness", "daydreaming", "drift", "scatteredness"],
+
+  "openness": ["receptivity", "vulnerability", "curiosity", "transparency", "availability", "honesty", "sharing", "welcoming", "fluidity", "non-resistance"],
+  "closedness": ["guardedness", "secrecy", "rigidity", "withholding", "defensiveness", "inaccessibility", "resistance", "inflexibility", "reticence", "aloofness"],
+
+    "balance": ["equilibrium", "stability", "harmony", "evenness", "centeredness", "calm", "poise", "moderation", "symmetry", "steadiness"],
+  "imbalance": ["instability", "excess", "unevenness", "chaos", "disproportion", "volatility", "misalignment", "lopsidedness", "disarray", "disruption"],
+
+  "celibate": ["chaste", "abstinent", "pure", "unmarried", "self-restrained", "virginal", "disciplined", "continent", "devotional", "sexless"],
+  "lustful": ["desirous", "lecherous", "sensual", "craving", "passionate", "carnal", "licentious", "unrestrained", "tempted", "salacious"],
+
+  "abstinence": ["self-restraint", "moderation", "temperance", "discipline", "forbearance", "renunciation", "withholding", "denial", "cleansing", "minimalism"],
+  "indulgence": ["excess", "luxury", "gratification", "gluttony", "decadence", "yielding", "overdoing", "self-satisfaction", "binge", "pleasure-seeking"],
+
+  "detachment": ["disengagement", "separation", "non-attachment", "aloofness", "objectivity", "independence", "freedom", "unclinging", "isolation", "distance"],
+  "attachment": ["clinging", "bond", "dependency", "fixation", "connection", "neediness", "grasping", "affection", "obsession", "holding on"],
+
+  "moderation": ["balance", "restraint", "temperance", "control", "reasonable", "middle-way", "discipline", "poise", "minimalism", "equanimity"],
+  "excess": ["overindulgence", "gluttony", "addiction", "imbalance", "overdoing", "too much", "exaggeration", "overload", "overflow", "intemperance"],
+
+  "solitude": ["aloneness", "seclusion", "retreat", "quiet", "privacy", "stillness", "contemplation", "peace", "isolation", "independence"],
+  "companionship": ["togetherness", "company", "friendship", "bonding", "relationship", "support", "partnership", "presence", "fellowship", "belonging"],
+
+  "surrender": ["yielding", "letting go", "acceptance", "release", "submission", "trust", "devotion", "flow", "faith", "humility"],
+  "resistance": ["defiance", "opposition", "struggle", "tension", "control", "grasping", "rejection", "withholding", "fight", "holding on"],
+
+  "patience": ["endurance", "tolerance", "calmness", "restraint", "steadiness", "composure", "acceptance", "persistence", "waiting", "presence"],
+  "impatience": ["restlessness", "agitation", "urgency", "frustration", "irritability", "short-temper", "anxiety", "eagerness", "inability to wait", "haste"],
+
+  "expectancy": ["anticipation", "hopefulness", "readiness", "eagerness", "alertness", "looking forward", "positive outlook", "preparation", "confidence", "excitement"],
+  "disappointment": ["letdown", "frustration", "regret", "discouragement", "disillusionment", "sadness", "sorrow", "resentment", "dissatisfaction", "loss"],
+
+  "faith": ["trust", "belief", "devotion", "confidence", "surrender", "conviction", "hope", "loyalty", "assurance", "spirituality"],
+  "distrust": ["suspicion", "doubt", "skepticism", "wariness", "mistrust", "uncertainty", "disbelief", "paranoia", "lack of faith", "hesitation"],
+
+  "mercy": ["compassion", "forgiveness", "pardon", "clemency", "leniency", "grace", "kindness", "benevolence", "understanding", "charity"],
+  "retribution": ["revenge", "punishment", "justice", "vengeance", "payback", "reprisal", "penalty", "retaliation", "condemnation", "recompense"],
+
+  "wonder": ["awe", "amazement", "curiosity", "astonishment", "admiration", "fascination", "surprise", "reverence", "enchantment", "marvel"],
+  "disdain": ["scorn", "contempt", "disrespect", "derision", "dismissal", "rejection", "spite", "belittlement", "superiority", "mockery"],
+
+  "veneration": ["reverence", "honor", "respect", "devotion", "worship", "awe", "admiration", "esteem", "praise", "regard"],
+  "scorn": ["disdain", "contempt", "mockery", "disrespect", "ridicule", "derision", "rejection", "belittlement", "sarcasm", "sneering"],
+
+  "ecstasy": ["euphoria", "rapture", "bliss", "elation", "transcendence", "exhilaration", "exaltation", "intoxication", "exuberance", "elevation"],
+  "agony": ["torment", "suffering", "pain", "anguish", "distress", "misery", "despair", "torture", "grief", "wretchedness"],
+  
+  "intimacy": ["closeness", "connection", "affection", "bonding", "proximity", "understanding", "familiarity", "vulnerability", "trust", "touch"],
+  "distance": ["separation", "detachment", "remoteness", "coldness", "alienation", "estrangement", "withdrawal", "gap", "disconnection", "isolation"],
+
+  "warmth": ["affection", "tenderness", "comfort", "closeness", "gentleness", "kindness", "glow", "friendliness", "compassion", "embrace"],
+  "coldness": ["indifference", "detachment", "aloofness", "distance", "unfeeling", "chill", "frigidity", "isolation", "harshness", "reserve"],
+
+  "radiance": ["light", "glow", "brightness", "shine", "luminosity", "warmth", "joy", "sparkle", "clarity", "brilliance"],
+  "gloom": ["darkness", "sadness", "melancholy", "shadow", "depression", "bleakness", "despair", "fog", "dimness", "cloudiness"],
+
+  "happiness": ["joy", "contentment", "pleasure", "delight", "satisfaction", "cheerfulness", "elation", "bliss", "gladness", "well-being"],
+  "misery": ["suffering", "pain", "despair", "anguish", "grief", "depression", "hopelessness", "torment", "sadness", "affliction"],
+
+  "uplift": ["encouragement", "inspiration", "support", "boost", "elevation", "cheer", "empowerment", "rise", "reassurance", "lightening"],
+  "drag": ["burden", "weight", "depression", "slump", "downer", "discouragement", "delay", "pull", "hindrance", "slowdown"],
+
+  "vigor": ["energy", "strength", "vitality", "robustness", "power", "stamina", "liveliness", "drive", "endurance", "animation"],
+  "fatigue": ["tiredness", "exhaustion", "weariness", "burnout", "lethargy", "sluggishness", "drain", "weakness", "drowsiness", "inertia"],
+
+  "buoyancy": ["lightness", "lift", "resilience", "upwardness", "levity", "hopefulness", "float", "cheer", "positivity", "airiness"],
+  "sinking": ["falling", "drooping", "decline", "descent", "slump", "collapse", "drowning", "heaviness", "drag", "bottoming out"],
+
+  "bravery": ["courage", "valor", "boldness", "fearlessness", "guts", "heroism", "fortitude", "resolve", "grit", "daring"],
+  "cowardice": ["fear", "timidity", "spinelessness", "weakness", "cowering", "avoidance", "nervousness", "retreat", "submission", "shrinking"],
+
+  "rejoice": ["celebrate", "exult", "cheer", "glory", "delight", "exuberance", "sing", "laugh", "radiate", "uplift"],
+  "lament": ["mourn", "grieve", "weep", "bemoan", "regret", "sorrow", "wail", "cry", "anguish", "deplore"],
+
+  "infatuation": ["adoration", "crush", "passion", "rapture", "longing", "obsession", "desire", "love rush", "yearning", "idolization"],
+  "torment": ["agony", "anguish", "torture", "suffering", "grief", "distress", "despair", "trauma", "misery", "persecution"],
+  
+  "triumph": ["victory", "conquest", "achievement", "success", "glory", "celebration", "win", "domination", "prevailing", "accomplishment"],
+  "defeat": ["loss", "failure", "setback", "fall", "collapse", "ruin", "surrender", "overthrow", "disappointment", "humbling"],
+
+  "gladness": ["joy", "happiness", "delight", "cheerfulness", "satisfaction", "pleasure", "mirth", "contentment", "rejoicing", "exuberance"],
+  "sorrow": ["grief", "sadness", "mourning", "regret", "pain", "despair", "lamentation", "melancholy", "anguish", "heartache"],
+
+  "jubilation": ["exultation", "celebration", "rejoicing", "gladness", "cheer", "elation", "euphoria", "delight", "triumph", "festivity"],
+  "woe": ["misery", "grief", "despair", "suffering", "sadness", "regret", "pain", "affliction", "anguish", "lamentation"],
+
+  "good fortune": ["luck", "prosperity", "blessing", "success", "favorable outcome", "windfall", "abundance", "opportunity", "serendipity", "gift"],
+  "misfortune": ["bad luck", "tragedy", "setback", "calamity", "hardship", "failure", "adversity", "affliction", "loss", "curse"]
+}

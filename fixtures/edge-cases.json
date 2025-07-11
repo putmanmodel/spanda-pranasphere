@@ -1,0 +1,81 @@
+[
+  {
+    "id": "sarcasm-flip",
+    "description": "High-tone input meant ironically — baseline shows positive resonance, but true modulation is negative.",
+    "snapshots": [
+      { "pole": 1, "code": "¡01.800[h]", "deviation": 0.8, "timestamp": 1000 },
+      { "pole": 1, "code": "¡01.200[h]", "deviation": -1.2, "timestamp": 1500 }
+    ],
+    "baseline": {
+      "poleAverages": { "1": { "total": 2.0, "count": 4, "decay": 0.95 } },
+      "lastUpdate": 1000,
+      "trend": "stable"
+    },
+    "current": {
+      "poleAverages": { "1": { "total": -1.8, "count": 3, "decay": 0.95 } },
+      "lastUpdate": 2000,
+      "trend": "swing"
+    }
+  },
+  {
+    "id": "flatline-no-deviation",
+    "description": "Repeated neutral inputs result in no arc formation — tone fails to trigger any modulation shift.",
+    "snapshots": [
+      { "pole": 2, "code": "¡02.000[n]", "deviation": 0.0, "timestamp": 500 },
+      { "pole": 2, "code": "¡02.000[n]", "deviation": 0.0, "timestamp": 1000 }
+    ],
+    "baseline": {
+      "poleAverages": { "2": { "total": 0.0, "count": 5, "decay": 0.95 } },
+      "lastUpdate": 500,
+      "trend": "flat"
+    },
+    "current": {
+      "poleAverages": { "2": { "total": 0.0, "count": 5, "decay": 0.95 } },
+      "lastUpdate": 1500,
+      "trend": "flat"
+    }
+  },
+  {
+    "id": "clashing-signals",
+    "description": "Two poles receiving strong but opposite signals — system must choose dominant trend or flag conflict.",
+    "snapshots": [
+      { "pole": 3, "code": "¡03.700[r]", "deviation": 0.7, "timestamp": 800 },
+      { "pole": 4, "code": "¡04.750[b]", "deviation": -0.75, "timestamp": 1000 }
+    ],
+    "baseline": {
+      "poleAverages": {
+        "3": { "total": 1.5, "count": 2, "decay": 0.95 },
+        "4": { "total": -1.6, "count": 2, "decay": 0.95 }
+      },
+      "lastUpdate": 800,
+      "trend": "stable"
+    },
+    "current": {
+      "poleAverages": {
+        "3": { "total": -1.4, "count": 3, "decay": 0.95 },
+        "4": { "total": 1.5, "count": 3, "decay": 0.95 }
+      },
+      "lastUpdate": 1600,
+      "trend": "swing"
+    }
+  },
+  {
+    "id": "overamplification-drift",
+    "description": "Tone intensity increases too rapidly for decay to stabilize — triggers runaway modulation loop.",
+    "snapshots": [
+      { "pole": 5, "code": "¡05.900[y]", "deviation": 0.9, "timestamp": 600 },
+      { "pole": 5, "code": "¡05.1200[y]", "deviation": 1.2, "timestamp": 900 },
+      { "pole": 5, "code": "¡05.1600[y]", "deviation": 1.6, "timestamp": 1100 }
+    ],
+    "baseline": {
+      "poleAverages": { "5": { "total": 1.0, "count": 2, "decay": 0.95 } },
+      "lastUpdate": 600,
+      "trend": "rising"
+    },
+    "current": {
+      "poleAverages": { "5": { "total": 4.8, "count": 3, "decay": 0.95 } },
+      "lastUpdate": 1100,
+      "trend": "surge"
+    }
+  }
+]

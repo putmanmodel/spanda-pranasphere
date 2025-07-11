@@ -1,0 +1,46 @@
+{
+  "name": "spanda-pranasphere",
+  "version": "1.0.0",
+  "description": "Symbolic cognition engine for emotional tone tracking and modulation – by PUTMAN",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "edge-case": "ts-node src/tools/runEdgeCaseTest.ts",
+    "test": "jest --passWithNoTests",
+    "test:unit": "jest --coverage"
+  },
+  "keywords": [
+    "ToneSig",
+    "spanda",
+    "pranasphere",
+    "PUTMAN",
+    "tonevector-engine",
+    "mfield-stack",
+    "sigframe",
+    "resfield-arch",
+    "cognitive-engine",
+    "symbolic-ai"
+  ],
+  "author": "Stephen A. Putman <putmanmodel@pm.me>",
+  "license": "CC-BY-NC-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/putmanmodel/spanda-pranasphere.git"
+  },
+  "bugs": {
+    "url": "https://github.com/putmanmodel/spanda-pranasphere/issues"
+  },
+  "homepage": "https://github.com/putmanmodel/spanda-pranasphere#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/jest": "^30.0.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.3.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.36.0"
+  }
+}
