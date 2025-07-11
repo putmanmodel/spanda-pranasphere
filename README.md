@@ -145,11 +145,11 @@ Commercial licensing available by inquiry.
 > These files support upcoming visual and semantic systems currently in active R&D.
 
 🌱 Planned experimental modules:
-- 🎨 **ToneGlowHUD™** — Real-time emotional field overlays (Unity-ready)  
-- 🧠 **Nuance Engine** — Symbolic tone memory with recursive deviation tracking  
-- 📊 **ToneSig Scene Designer** — Visualize NPC state arcs + resonance clusters
+	•	🎨 ToneGlowHUD™ — Real-time emotional field overlays (Unity-ready)
+	•	🧠 Nuance Engine — Symbolic tone memory with recursive deviation tracking
+	•	📊 ToneSig Scene Designer — Visualize NPC state arcs + resonance clusters
 
-_**Note:** These features are exploratory and may evolve as the Spanda Engine develops._
+Note: These features are exploratory and may evolve as the Spanda Engine develops.
 ---
 
 ### 📦 Version
