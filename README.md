@@ -54,13 +54,13 @@ This simulates the full flow:
 ### 🧠 Mermaid Flow – Tone to Modulation
 
 ```mermaid
-graph TD
-    A[Tone Input (Vector)] --> B[ToneSig Generation]
-    B --> C[Deviation Analysis]
-    C --> D[Arc Classification]
-    D --> E[PranaSphere Update]
-    E --> F[Contextual Tone Inference]
-    F --> G[Modulation Strategy]
+flowchart TD
+    A["Tone Input (Vector)"] --> B["ToneSig Generation"]
+    B --> C["Deviation Analysis"]
+    C --> D["Arc Classification"]
+    D --> E["PranaSphere Update"]
+    E --> F["Contextual Tone Inference"]
+    F --> G["Modulation Strategy"]
 ```
 
 ---
