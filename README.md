@@ -9,7 +9,7 @@ This Phase 1 release includes the core pipeline from **tone signal detection** t
 
 This is a simplified public preview of the Spanda Engine™ — a system for real-time emotional resonance modeling, symbolic tone parsing, and recursive narrative logic.
 
-> The full PUTMAN Suite of Emotive Software will be released in stages.
+The full PUTMAN Suite of Emotive Software will be released in stages.
 ---
 
 ### 📋 Prerequisites
@@ -148,8 +148,8 @@ Commercial licensing available by inquiry.
 
 ### 🧭 Coming Soon – Visual Layers + Symbolic Mapping
 
-> The included `tonePairs.json` and `keywordMap.json` form the symbolic base for future emotional modeling tools.  
-> These files support upcoming visual and semantic systems currently in active R&D.
+The included `tonePairs.json` and `keywordMap.json` form the symbolic base for future emotional modeling tools.  
+These files support upcoming visual and semantic systems currently in active R&D.
 
 ### 🌱 Planned Experimental Modules
 
@@ -157,7 +157,7 @@ Commercial licensing available by inquiry.
 - 🧠 Nuance Engine — Symbolic tone memory with recursive deviation tracking  
 - 📊 ToneSig Scene Designer — Visualize NPC state arcs + resonance clusters  
 
-> These features are exploratory and may evolve as the Spanda Engine develops.
+These features are exploratory and may evolve as the Spanda Engine develops.
 ---
 
 ### 📦 Version
